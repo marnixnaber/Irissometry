@@ -3,15 +3,15 @@
 Thank you for downloading the irissometry toolbox!
 
 The irissometry implementation does the following:
-- Detects the eye's pupil in close-up videos using a starburst-like algorithm (see function detectPupil)
-- Tracks points and calculate distances within the iris
+- Detects the eye's pupil in close-up videos using a starburst-like algorithm (see function detectPupil())
+- Tracks points and calculate distances within the iris (see function irissometry())
 - Spits out a matrix containing data about the pupil center coordinates, pupil size, iris feature distances, etc.
 - Saves output matrix in .mat file and .csv file
-- Plots some graphs with pupil radius and position data over time
-
-For more info about input and output (io), enter "help irissometry" in the command.
+- Plots some graphs with pupil radius and position data over time (see plotResults.m)
 
 See "example.m" for an example code. Just run it, select one or more videos, and observe the magic.
+
+For more info about input and output (io), enter "help irissometry" in the command.
 
 > Please cite our work in case you use our implementation!
 
@@ -35,7 +35,20 @@ Please note that you need the computer vision toolbox and image processing toolb
 Please contact Marnix Naber in case you cannot get the code to work.
 
 ## License:
-This software can used for non-commercial purposes (see license file). Please contact marnixnaber@gmail.com for commercial licences.
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+Please contact marnixnaber@gmail.com for getting a commercial licence.
+
 
 ## Acknowledgments:
 Richard Brown (2007) for sharing the circle fit code.
