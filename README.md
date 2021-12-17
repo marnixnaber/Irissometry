@@ -1,3 +1,5 @@
+# Irissometry
+
 Thank you for downloading the irissometry toolbox!
 
 The irissometry implementation does the following:
@@ -6,7 +8,7 @@ The irissometry implementation does the following:
 - Spits out a matrix containing data about the pupil center coordinates, pupil size, iris feature distances, etc.
 
 For more info about input and output (io), enter "help irissometry" in the command.
-# Irissometry
+
 
 See "example.m" for an example code. Just run it, select one or more videos, and observe the magic
 
