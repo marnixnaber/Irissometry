@@ -13,29 +13,29 @@ For more info about input and output (io), enter "help irissometry" in the comma
 
 See "example.m" for an example code. Just run it, select one or more videos, and observe the magic.
 
-Please cite our work in case you use our implementation!
+> Please cite our work in case you use our implementation!
 
-[Example of irissometry output](github.com/marnixnaber/Irissometry/images/irissometry.png)
+![Example of irissometry output](https://www.https://github.com/marnixnaber/Irissometry/blob/main/images/irissometry.png)
 
-# Reference:
+## Reference:
 Strauch, C., & Naber, M. (Submitted). Irissometry: effects of pupil size on iris elasticity measured with video-based feature tracking. Investigative Ophthalmology and Vision Sciences.
 
-# Info for videos:
+## Info for videos:
 Make sure that the videos do not display black borders at the edge of the frame 
 because this causes the pupil border detection to fail
 
-[Example of a good video](github.com/marnixnaber/Irissometry/images/goodVideoForIrissometry.png)
+![Example of a good video](https://github.com/marnixnaber/Irissometry/blob/main/images/goodVideoForIrissometry.png)
 
-# Required software:
+## Required software:
 MATLAB. Software has been tested with MATLAB 2019b on a windows machine. 
 No guarantees can be provided for other MATLAB versions and operating platforms.
 Please note that you need the computer vision toolbox and image processing toolbox to get the code to work.
 Please contact Marnix Naber in case you cannot get the code to work.
 
-# License:
+## License:
 This software can used for non-commercial purposes (see license file). Please contact marnixnaber@gmail.com for commercial licences.
 
-# Acknowledgments:
+## Acknowledgments:
 Richard Brown (2007) for sharing the circle fit code.
 
 Dongheng, L.,Winfield, D., and Parkhurst, D. J. Starburst:
