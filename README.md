@@ -15,7 +15,7 @@ See "example.m" for an example code. Just run it, select one or more videos, and
 
 > Please cite our work in case you use our implementation!
 
-![Example of irissometry output](https://www.github.com/marnixnaber/Irissometry/blob/main/images/irissometry.png)
+![Example of irissometry output](https://github.com/marnixnaber/Irissometry/blob/main/images/irissometry.png)
 
 ## Reference:
 Strauch, C., & Naber, M. (Submitted). Irissometry: effects of pupil size on iris elasticity measured with video-based feature tracking. Investigative Ophthalmology and Vision Sciences.
