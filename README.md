@@ -15,12 +15,16 @@ See "example.m" for an example code. Just run it, select one or more videos, and
 
 Please cite our work in case you use our implementation!
 
+[Example of irissometry output](github.com/marnixnaber/Irissometry/images/irissometry.png)
+
 # Reference:
 Strauch, C., & Naber, M. (Submitted). Irissometry: effects of pupil size on iris elasticity measured with video-based feature tracking. Investigative Ophthalmology and Vision Sciences.
 
 # Info for videos:
 Make sure that the videos do not display black borders at the edge of the frame 
 because this causes the pupil border detection to fail
+
+[Example of a good video](github.com/marnixnaber/Irissometry/images/goodVideoForIrissometry.png)
 
 # Required software:
 MATLAB. Software has been tested with MATLAB 2019b on a windows machine. 
