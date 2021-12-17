@@ -41,7 +41,7 @@ This work is licensed under a
 
 [![CC BY 4.0][cc-by-image]][cc-by-sa]
 
-[cc-by]-sa: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 <!-- https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png -->
 
