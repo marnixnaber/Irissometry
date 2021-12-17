@@ -22,14 +22,16 @@ Strauch, C., & Naber, M. (Submitted). Irissometry: effects of pupil size on iris
 
 ## Info for videos:
 Make sure that the videos do not display black borders at the edge of the frame 
-because this causes the pupil border detection to fail
+because this causes the pupil border detection to fail. This is how a video frame should look like:
 
 ![Example of a good video](https://github.com/marnixnaber/Irissometry/blob/main/images/goodVideoForIrissometry.png)
 
 ## Required software:
-MATLAB. Software has been tested with MATLAB 2019b on a windows machine. 
+The code has been tested in MATLAB 2019b on a windows 10 machine. 
 No guarantees can be provided for other MATLAB versions and operating platforms.
+
 Please note that you need the computer vision toolbox and image processing toolbox to get the code to work.
+
 Please contact Marnix Naber in case you cannot get the code to work.
 
 ## License:
@@ -45,5 +47,5 @@ IEEE Computer Society Conference on Computer Vision
 and Pattern Recognition (CVPR'05) - Workshops, 2005,
 pp. 79–79.
 
-E Contact:
+## Contact:
 For questions, please contact marnixnaber@gmail.com
