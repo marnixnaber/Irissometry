@@ -36,13 +36,14 @@ Please contact Marnix Naber in case you cannot get the code to work.
 
 ## License:
 
-[![CC BY 4.0][cc-by-shield]][cc-by-sa]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by-sa].
 
 [![CC BY 4.0][cc-by-image]][cc-by-sa]
 
+[cc-by]-sa: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+<!-- https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png -->
 
 Please contact marnixnaber@gmail.com for getting a commercial licence.
 
