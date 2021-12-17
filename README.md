@@ -16,8 +16,7 @@ See "example.m" for an example code. Just run it, select one or more videos, and
 Please cite our work in case you use our implementation!
 
 # Reference:
-Naber, M., & Strauch, C. (2022). Irissometry: effects of pupil size on iris elasticity measured with video-based feature tracking.
-Investigative Ophthalmology and Vision Sciences.
+Strauch, C., & Naber, M. (Submitted). Irissometry: effects of pupil size on iris elasticity measured with video-based feature tracking. Investigative Ophthalmology and Vision Sciences.
 
 # Info for videos:
 Make sure that the videos do not display black borders at the edge of the frame 
