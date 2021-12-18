@@ -36,7 +36,10 @@ Please note that you need the following toolboxes to get the code to work:
 - Signal processing toolbox
 - Statistics and machine learning toolbox
 
-Please contact marnixnaber@gmail.com in case you cannot get the code to work.
+If you get an error about a missing function, it is likely that you have not the right toolboxes installed.
+Please contact marnixnaber@gmail.com in case you cannot get the code to work. 
+If you do so, please send along a screenshot of the error, and details regarding your
+operating system and matlab version.
 
 ## License:
 
