@@ -1,6 +1,6 @@
 # Irissometry
 
-Thank you for downloading the irissometry toolbox!
+Thank you for your interest in the irissometry toolbox!
 
 The irissometry implementation does the following:
 - Detects the eye's pupil in close-up videos using a starburst-like algorithm (see function detectPupil())
@@ -30,9 +30,13 @@ because this causes the pupil border detection to fail. This is how a video fram
 The code has been tested in MATLAB 2019b on a windows 10 machine. 
 No guarantees can be provided for other MATLAB versions and operating platforms.
 
-Please note that you need the computer vision toolbox and image processing toolbox to get the code to work.
+Please note that you need the following toolboxes to get the code to work:
+- Computer vision toolbox 
+- Image processing toolbox 
+- Signal processing toolbox
+- Statistics and machine learning toolbox
 
-Please contact Marnix Naber in case you cannot get the code to work.
+Please contact marnixnaber@gmail.com in case you cannot get the code to work.
 
 ## License:
 
@@ -45,7 +49,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 <!-- https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png -->
 
-Please contact marnixnaber@gmail.com for getting a commercial licence.
+Please contact marnixnaber@gmail.com for a commercial licence.
 
 
 ## Acknowledgments:

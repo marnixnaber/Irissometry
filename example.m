@@ -18,6 +18,8 @@ clc
 % REQUIRED MATLAB TOOLBOXES: 
 % - computer vision toolbox
 % - image processing toolbox
+% - signal processing toolbox
+% - statistics and machine learning toolbox
 %
 % Contact: marnixnaber@gmail.com
 
@@ -39,9 +41,9 @@ configVar.nFeaturePointRange = [600 2000];      % range of number of feature to 
 configVar.waitForNFramesAfterPupilMiss = 10;    % number of frames
 configVar.starburst.nThBins = 16;               % number of points detected on pupil border
 configVar.startburst.stepSize = 5;              % distance in [pixels] to compare radial luminance increases to detect pupil border
-configVar.disp.inspectFrames = 0;               % set to 1 to display popup with irissometry output
+configVar.disp.inspectFrames = 1;               % set to 1 to display popup with irissometry output
 configVar.disp.inspectFramesManualPace = 0;     % set to 1 to display popup with irissometry output per frame, use space to show a subsequent frame
-configVar.disp.saveVideoIrissometryOutput = 0;  % set to 1 to save a new video with irissometry output
+configVar.disp.saveVideoIrissometryOutput = 1;  % set to 1 to save a new video with irissometry output
 configVar.overwriteOutputData = 0;              % set to 1 to overwrite existing irissometry output (_output.mat files)
 
 %% select folder with video files
