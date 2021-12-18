@@ -4,9 +4,9 @@ Thank you for your interest in the irissometry toolbox!
 
 The irissometry implementation does the following:
 - Detects the eye's pupil in close-up videos using a starburst-like algorithm (see function detectPupil())
-- Tracks points and calculate distances within the iris (see function irissometry())
-- Spits out a matrix containing data about the pupil center coordinates, pupil size, iris feature distances, etc.
-- Saves output matrix in .mat file and .csv file
+- Tracks points and calculates distances within the iris (see function irissometry())
+- Outputs a matrix containing data about the pupil center coordinates, pupil size, iris feature distances, etc.
+- Saves the output matrix in .mat file and .csv file
 - Plots some graphs with pupil radius and position data over time (see plotResults.m)
 
 See "example.m" for an example code. Just run it, select one or more videos, and observe the magic.
@@ -36,10 +36,10 @@ Please note that you need the following toolboxes to get the code to work:
 - Signal processing toolbox
 - Statistics and machine learning toolbox
 
-If you get an error about a missing function, it is likely that you have not the right toolboxes installed.
+If you get an error about a missing function, it is likely that you have not installed the required toolboxes.
 Please contact marnixnaber@gmail.com in case you cannot get the code to work. 
-If you do so, please send along a screenshot of the error, and details regarding your
-operating system and matlab version.
+If you do so, please send along a screenshot of the error, the movie you want to analyze, and details regarding your
+operating system, matlab version, etc.
 
 ## License:
 
